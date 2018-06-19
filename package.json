@@ -1,0 +1,22 @@
+{
+  "name": "flex-utility",
+  "version": "1.0.0",
+  "description": "<h1>Landing page \"Rhythm\"</h1>\r <h3>Инструменты разработки</h3>\r <p>Данный макет сайт был создан в графическом редакторе Adobe Photoshop CC.<br>\r Программная часть была реализована в бесплатном редакторе с открытым кодом для веб-разработчиков Brackets<br> с помощью HTML5 и CSS3, при поддержке фреймворка\r Bootstrap 4.0.0<br> \r <a>https://getbootstrap.com/docs/4.0/getting-started/download/</a><br>\r </p>\r <h3>Шрифты</h3>\r <p>При создании макета использовались локально подключённые шрифтовые иконки \"Et-Line\"<br>\r <a>http://rhythm.nikadevs.com/content/icons-et-line</a><br>\r и шрифты \"Dosis\" и \"Open Sans\" полученные из удалённого сервиса Google-Fonts<br>\r <a>http://fonts-google.com</a>\r </p>\r <h3>Компоненты Bootstrap 4.0.0</h3>\r <p>В процессе разработки данного проекта были использованы следующие компоненты фреймворка Bootstrap 4.0.0:</p>\r <li>Навигационная панель</li>\r <li>Выпадающее меню</li>\r <li>Кнопки</li>\r <li>Табы</li>\r <li>Слайдеры</li>\r <h3>Классы bootstrap 4.0.0</h3>\r <p>Список готовых классов фреймворка, которые вмещает в себя данный проект:<br>\r .container, .section, .section-small, .progress-bar, .nav, .navbar, .btn, .btn-default, .btn-light, .tab-contect, .row, .col-lg-4, .col-lg-3, .col-md-4, .col-xs-12, .col-sm-12, .pull-left, .pull-right, .text-center, .img-responsive, .tab-pane, .fade, .in, .slider, .carousel-indicator, .col-md-offset-2, .col-lg-offset-2, .col-lg-offset-1, .navbar-toggle, .collaplse, .navbar-collapse.\r </p>\r <h3>Media-запросы</h3>\r <p> Для адаптации сайта под экраны разных устройств и браузеров использовались следующие media-запросы\r <li>@media (max-width: 1199px)</li>\r <li>@media (max-width: 991px)</li>\r <li>@media (max-width: 761px)</li></p>\r <p>Следовательно, программная часть была реализована под разрешения экрана от 1200px до 480px.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltMaGot/altmagot.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AltMaGot/altmagot.github.io/issues"
+  },
+  "homepage": "https://github.com/AltMaGot/altmagot.github.io#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
